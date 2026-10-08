@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: d942bc9a3a9989840afe7a47c3600102
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1553807738796808041
+    second: menu_extra_buttons_hd_0
+  - first:
+      213: 8401221395505551108
+    second: menu_extra_buttons_hd_1
+  - first:
+      213: 3262247591451084799
+    second: menu_extra_buttons_hd_2
+  - first:
+      213: 2750123515892164305
+    second: menu_extra_buttons_hd_3
+  - first:
+      213: 4260820836030196445
+    second: menu_extra_buttons_hd_4
+  - first:
+      213: 4679136204380867287
+    second: menu_extra_buttons_hd_5
+  - first:
+      213: 6293619185636982717
+    second: menu_extra_buttons_hd_6
+  - first:
+      213: 6490991319380735683
+    second: menu_extra_buttons_hd_7
+  - first:
+      213: -8755767373369282042
+    second: menu_extra_buttons_hd_8
+  - first:
+      213: 3346845752293313661
+    second: menu_extra_buttons_hd_9
+  - first:
+      213: -4975405596408094372
+    second: menu_extra_buttons_hd_10
+  - first:
+      213: -6928351218030206773
+    second: menu_extra_buttons_hd_11
+  - first:
+      213: 6028405579385197392
+    second: menu_extra_buttons_hd_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 267
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9679c30f7eb309510800000000000000
+      internalID: 1553807738796808041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 450
+        width: 138
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407158ef852279470800000000000000
+      internalID: 8401221395505551108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 403
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7c0d976e4d54d20800000000000000
+      internalID: 3262247591451084799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 457
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6633554c66a2620800000000000000
+      internalID: 2750123515892164305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 403
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaa92fb9f9712b30800000000000000
+      internalID: 4260820836030196445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 499
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da8ac53691afe040800000000000000
+      internalID: 4679136204380867287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfb977ed4d675750800000000000000
+      internalID: 6293619185636982717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 61
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c635d7d632a41a50800000000000000
+      internalID: 6490991319380735683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 61
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6027e56c6f34d7680800000000000000
+      internalID: -8755767373369282042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 61
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cc777ba72627e20800000000000000
+      internalID: 3346845752293313661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51ea9c88fec3fab0800000000000000
+      internalID: -4975405596408094372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc02a22764d89df90800000000000000
+      internalID: -6928351218030206773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_extra_buttons_hd_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 7
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053dc314fe239a350800000000000000
+      internalID: 6028405579385197392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      menu_extra_buttons_hd_0: 1553807738796808041
+      menu_extra_buttons_hd_1: 8401221395505551108
+      menu_extra_buttons_hd_10: -4975405596408094372
+      menu_extra_buttons_hd_11: -6928351218030206773
+      menu_extra_buttons_hd_12: 6028405579385197392
+      menu_extra_buttons_hd_2: 3262247591451084799
+      menu_extra_buttons_hd_3: 2750123515892164305
+      menu_extra_buttons_hd_4: 4260820836030196445
+      menu_extra_buttons_hd_5: 4679136204380867287
+      menu_extra_buttons_hd_6: 6293619185636982717
+      menu_extra_buttons_hd_7: 6490991319380735683
+      menu_extra_buttons_hd_8: -8755767373369282042
+      menu_extra_buttons_hd_9: 3346845752293313661
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
